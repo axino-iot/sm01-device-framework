@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>ex_app_sm01</name>
+            <creation-uuid>90d7ca22-8a18-45b0-8774-af5cfe91eb50</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>ezbl_integration</sourceRootElem>
+                <sourceRootElem>sm01_lib</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>mesh</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>lora</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>wifi</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>gsm</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>eth</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
